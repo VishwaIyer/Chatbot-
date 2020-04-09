@@ -1,0 +1,49 @@
+Activate an Environment
+
+Install Flask through Anaconda Prompt
+
+open a notepad file and rename it sample.py to run the Flask app and linking to the html file and yml file.
+
+Then create a html file with headings and JS commands for extracting the response and create a response with the help of the yml file.
+
+Next step is to create the yml file which contains the conversation between the chatbot and the user
+
+
+                                             or
+
+Go to extracted folder 
+
+pip install -r req.txt
+
+python sample.py
+
+open http://127.0.0.1:5000/  in Chrome
+
+
+You can see the result directly
+
+If you want step by step analysis you can check the below steps.
+
+
+First Extract the bot folder and then you will have all python file,index html file,data,yml file also
+
+
+
+For instructions 
+
+First extract the folder and you can see recording to understand step by step.
+
+Create your own custom yml file (Yay My Life) format with shown format for giving questions and answers thats how your bot will be self learning..
+
+I am also adding css file in static folder ..
+
+C:\Users\Administrator\Desktop\bot\ mkdir static
+
+C:\Users\Administrator\Desktop\bot\notepad css
+
+thats how u create css file and check the styling in given 
+
+finally you can run
+
+C:\Users\Administrator\Desktop\bot\python sample.py
+
