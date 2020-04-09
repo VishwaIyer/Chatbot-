@@ -1,2 +1,2 @@
 # Chatbot-
-Using Flask we create a chatbot with 
+Using Flask we create a chatbot with HTML, CSS and Javascript
